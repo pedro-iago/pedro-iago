@@ -21,7 +21,6 @@
 
 - ✉️ Email: **pedroiagob@gmail.com**  
 - 🔗 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/pedro-iago-barbosa-ribeiro-23aa85353/)  
-- 🌐 Portfólio / Site pessoal: [Seu Site](https://seusite.com)  
 
 ---
 
