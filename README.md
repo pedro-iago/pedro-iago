@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou Pedro Iago Ribeiro
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Atualmente estudando **Java**, **POO** e desenvolvimento web  
-🚀 Apaixonado por criar projetos que me desafiem e aprendizados contínuos
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | Fiap
 
 ---
 
