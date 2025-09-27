@@ -19,8 +19,8 @@
 
 ## 📫 Contato & Links
 
-- ✉️ Email: **seuemail@exemplo.com**  
-- 🔗 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
+- ✉️ Email: **pedroiagob@gmail.com**  
+- 🔗 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/pedro-iago-barbosa-ribeiro-23aa85353/)  
 - 🌐 Portfólio / Site pessoal: [Seu Site](https://seusite.com)  
 
 ---
