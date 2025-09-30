@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFD700"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6e3a5d"/>
 
 <br>
 
@@ -11,23 +11,23 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFD700&width=900&size=22&center=true&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+programa%C3%A7%C3%A3o+e+tecnologia;Explorando+Java%2C+Spring+Boot+e+SQL;Seja+bem-vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff79c6&width=900&size=22&center=true&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+programa%C3%A7%C3%A3o+e+tecnologia;Explorando+Java%2C+Spring+Boot+e+SQL;Seja+bem-vindo!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/pedro.dev-black" />
+  <img src="https://img.shields.io/badge/pedro.dev-6e3a5d?style=for-the-badge&logo=github&logoColor=fff" />
 </div>
       
 <br>
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=pedro-iago&show_icons=true&count_private=true&rank_icon=github&theme=radical"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-iago&layout=compact&langs_count=12&theme=radical"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=pedro-iago&show_icons=true&count_private=true&rank_icon=github&theme=omni"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-iago&layout=compact&langs_count=12&theme=omni"/>
   <br><br>
-  <img align="center" alt="Resumo" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedro-iago&theme=radical"/>
+  <img align="center" alt="Resumo" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedro-iago&theme=omni"/>
 </div>
 
 <br>
@@ -67,9 +67,9 @@
   <samp><b>Contato:</b></samp>
   <br><br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:seuemail@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/seu-perfil)
-  [![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/seuusuario/)
+  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seu-perfil)
+  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/seuusuario/)
   
 </div>
 </details>
@@ -80,11 +80,11 @@
 
 <div align="center">
   <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fpedro-iago&s=30&c=FFD700&bg=00000000&no=2&ff=digi&tb=Visitas+ao+perfil%3A++&ta=" />
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fpedro-iago&s=30&c=ff79c6&bg=00000000&no=2&ff=digi&tb=Visitas+ao+perfil%3A++&ta=" />
   </p> 
 </div>
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e3a5d&height=100&section=footer"/>
 
