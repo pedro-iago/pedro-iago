@@ -1,105 +1,90 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pedro Iago Ribeiro - Portfólio</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-  <style>
-    body {
-      margin: 0;
-      font-family: "Iosevka", monospace, sans-serif;
-      background-color: #0d0d0d;
-      color: #fff;
-      text-align: center;
-    }
-    header {
-      background: linear-gradient(135deg, #ff79c6, #bd93f9);
-      padding: 2rem;
-      border-bottom: 4px solid #ff79c6;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-    section {
-      padding: 3rem 1rem;
-    }
-    .icons img {
-      width: 50px;
-      margin: 10px;
-      transition: transform 0.3s;
-    }
-    .icons img:hover {
-      transform: scale(1.2);
-    }
-    .stats img {
-      margin: 10px;
-      max-width: 400px;
-    }
-    .contact a {
-      display: inline-block;
-      margin: 10px;
-      padding: 12px 20px;
-      border-radius: 8px;
-      background: #6e3a5d;
-      color: #fff;
-      text-decoration: none;
-      font-weight: bold;
-      transition: background 0.3s;
-    }
-    .contact a:hover {
-      background: #ff79c6;
-    }
-    footer {
-      padding: 1rem;
-      font-size: 0.9rem;
-      background: #1a1a1a;
-      border-top: 2px solid #ff79c6;
-    }
-  </style>
-</head>
-<body>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFD700"/>
 
-  <header>
-    <h1>👋 Olá, eu sou Pedro Iago Ribeiro</h1>
-    <p>Estudante de Análise e Desenvolvimento de Sistemas • Java • Spring Boot • SQL • PostgreSQL • Oracle • Python • Frontend • Figma</p>
-  </header>
+<br>
 
-  <section>
-    <h2>🚀 Tecnologias & Ferramentas</h2>
-    <div class="icons">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
-    </div>
-  </section>
+<div align="center">
+  <b>`Desenvolvedor`</b>
+  <samp>
+      <br>
+      Olá! Eu sou <b>Pedro Iago</b> 👋
+  </samp>
+</div>
 
-  <section>
-    <h2>📊 Estatísticas</h2>
-    <div class="stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=pedro-iago&show_icons=true&theme=radical" alt="GitHub Stats"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-iago&layout=compact&theme=radical" alt="Top Languages"/>
-    </div>
-  </section>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFD700&width=900&size=22&center=true&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+programa%C3%A7%C3%A3o+e+tecnologia;Explorando+Java%2C+Spring+Boot+e+SQL;Seja+bem-vindo!" alt="Typing SVG"/>
+</div>
 
-  <section class="contact">
-    <h2>📫 Contato</h2>
-    <a href="mailto:seuemail@exemplo.com">Email</a>
-    <a href="https://linkedin.com/in/seu-linkedin" target="_blank">LinkedIn</a>
-    <a href="https://github.com/pedro-iago" target="_blank">GitHub</a>
-  </section>
+<br>
 
-  <footer>
-    <p>⭐️ Criado com ❤️ por Pedro Iago Ribeiro</p>
-  </footer>
+<div align="center">
+  <img src="https://img.shields.io/badge/pedro.dev-black" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=pedro-iago&show_icons=true&count_private=true&rank_icon=github&theme=radical"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-iago&layout=compact&langs_count=12&theme=radical"/>
+  <br><br>
+  <img align="center" alt="Resumo" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedro-iago&theme=radical"/>
+</div>
 
-</body>
-</html>
+<br>
+
+<div align="center" style="display: inline_block"><br>
+  <!-- Linguagens -->
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  
+  <!-- Banco de Dados -->
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  
+  <!-- Frameworks & Tools -->
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
+
+<br><br>
+
+<details align="center">  
+  <summary>
+      <samp><b>Mais sobre mim</b></samp>
+  </summary>
+  
+<br>
+
+##
+
+<div align="center">
+  <samp><b>Contato:</b></samp>
+  <br><br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:seuemail@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/seu-perfil)
+  [![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/seuusuario/)
+  
+</div>
+</details>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fpedro-iago&s=30&c=FFD700&bg=00000000&no=2&ff=digi&tb=Visitas+ao+perfil%3A++&ta=" />
+  </p> 
+</div>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer"/>
+
