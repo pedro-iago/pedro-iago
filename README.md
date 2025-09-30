@@ -71,7 +71,7 @@
   <br><br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pedroiagob@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/pedro-iago-barbosa-ribeiro-23aa85353)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](src="www.linkedin.com/in/pedro-iago-barbosa-ribeiro-23aa85353")
   
 </div>
 </details>
