@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/pedro.dev-6e3a5d?style=for-the-badge&logo=github&logoColor=fff" />
+  <img src="https://img.shields.io/badge/pedro-iago-6e3a5d?style=for-the-badge&logo=github&logoColor=fff" />
 </div>
       
 <br>
@@ -40,6 +40,8 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   
   <!-- Banco de Dados -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -50,6 +52,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
 </div>
 
 <br><br>
@@ -67,9 +70,8 @@
   <samp><b>Contato:</b></samp>
   <br><br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seu-perfil)
-  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/seuusuario/)
+  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pedroiagob@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/pedro-iago-barbosa-ribeiro-23aa85353)
   
 </div>
 </details>
@@ -78,13 +80,6 @@
 
 <br>
 
-<div align="center">
-  <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fpedro-iago&s=30&c=ff79c6&bg=00000000&no=2&ff=digi&tb=Visitas+ao+perfil%3A++&ta=" />
-  </p> 
-</div>
-
-<br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e3a5d&height=100&section=footer"/>
+
 
