@@ -1,28 +1,105 @@
-# 👋 Olá, eu sou Pedro Iago Ribeiro
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pedro Iago Ribeiro - Portfólio</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <style>
+    body {
+      margin: 0;
+      font-family: "Iosevka", monospace, sans-serif;
+      background-color: #0d0d0d;
+      color: #fff;
+      text-align: center;
+    }
+    header {
+      background: linear-gradient(135deg, #ff79c6, #bd93f9);
+      padding: 2rem;
+      border-bottom: 4px solid #ff79c6;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    section {
+      padding: 3rem 1rem;
+    }
+    .icons img {
+      width: 50px;
+      margin: 10px;
+      transition: transform 0.3s;
+    }
+    .icons img:hover {
+      transform: scale(1.2);
+    }
+    .stats img {
+      margin: 10px;
+      max-width: 400px;
+    }
+    .contact a {
+      display: inline-block;
+      margin: 10px;
+      padding: 12px 20px;
+      border-radius: 8px;
+      background: #6e3a5d;
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+    .contact a:hover {
+      background: #ff79c6;
+    }
+    footer {
+      padding: 1rem;
+      font-size: 0.9rem;
+      background: #1a1a1a;
+      border-top: 2px solid #ff79c6;
+    }
+  </style>
+</head>
+<body>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | Fiap
+  <header>
+    <h1>👋 Olá, eu sou Pedro Iago Ribeiro</h1>
+    <p>Estudante de Análise e Desenvolvimento de Sistemas • Java • Spring Boot • SQL • PostgreSQL • Oracle • Python • Frontend • Figma</p>
+  </header>
 
----
+  <section>
+    <h2>🚀 Tecnologias & Ferramentas</h2>
+    <div class="icons">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
+    </div>
+  </section>
 
-## 🛠 Tecnologias & Ferramentas
+  <section>
+    <h2>📊 Estatísticas</h2>
+    <div class="stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=pedro-iago&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-iago&layout=compact&theme=radical" alt="Top Languages"/>
+    </div>
+  </section>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+  <section class="contact">
+    <h2>📫 Contato</h2>
+    <a href="mailto:seuemail@exemplo.com">Email</a>
+    <a href="https://linkedin.com/in/seu-linkedin" target="_blank">LinkedIn</a>
+    <a href="https://github.com/pedro-iago" target="_blank">GitHub</a>
+  </section>
 
----
+  <footer>
+    <p>⭐️ Criado com ❤️ por Pedro Iago Ribeiro</p>
+  </footer>
 
-## 📊 Estatísticas do GitHub
-
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-iago&show_icons=true&theme=radical)](https://github.com/pedro-iago)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-iago&layout=compact&theme=radical)](https://github.com/pedro-iago)
-
----
-
-## 📫 Contato & Links
-
-- ✉️ Email: **pedroiagob@gmail.com**  
-- 🔗 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/pedro-iago-barbosa-ribeiro-23aa85353/)  
-
----
-
-⭐️ _Bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos e ideias._
-
+</body>
+</html>
